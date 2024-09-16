@@ -4,6 +4,8 @@ For working with the files you need to install these modules:
 
 npm init -y
 npm install express mysql body-parser
+npm install express-session
+npm install uuid
 
 FOR FORGOT PASSWORD FUNCTIONALITY EXECUTE THE FOLLOWING COMMANDS:
 npm install nodemailer
